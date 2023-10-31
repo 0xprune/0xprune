@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **DevOps, CyberSec, Automation**
 
-- 📝 I regularly write articles on [https://ekydiza.medium.com/](Medium)
+- 📝 I regularly write articles on [Medium](https://ekydiza.medium.com/)
 
 - 💬 Ask me about **CyberSec, Networking, Linux, DevOps**
 
