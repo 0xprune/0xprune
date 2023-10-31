@@ -1,17 +1,16 @@
 <h1 align="center">Hi 👋, I'm Eky</h1>
 <h3 align="center">a passionate DevOps and CyberSec engineer from Indonesia 🆔</h3>
 
-- 🌱 I’m currently learning **DevOps, CyberSec, Automation**
+- 🧑🏻‍💻 I’m currently learning **DevOps, CyberSec, Automation**
 
 - 📝 I regularly write articles on [Medium](https://ekydiza.medium.com/)
 
-- 💬 Ask me about **CyberSec, Networking, Linux, DevOps**
+- 💬 Ask me about **CyberSec, Networking, Linux, DevOps** ... anything [here]()
 
 - 📫 How to reach me **ekyjanuarta@outlook.com**
+  
 
-- ⚡ Fun fact **I love Kano ❤️**
-
-<h3 align="left">Connect with me:</h3>
+### Connect with me:
 <p align="left">
 <a href="https://dev.to/0xprune" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="0xprune" height="30" width="40" /></a>
 <a href="https://twitter.com/prune0x" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="prune0x" height="30" width="40" /></a>
