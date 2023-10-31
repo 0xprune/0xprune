@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Eky</h1>
-<h3 align="center">a passionate DevOps and CyberSec engineer from Indonesia</h3>
+<h3 align="center">a passionate DevOps and CyberSec engineer from Indonesia 🆔</h3>
 
 - 🌱 I’m currently learning **DevOps, CyberSec, Automation**
 
